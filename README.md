@@ -1,4 +1,4 @@
-Entering in the box will seem to change the color of a horse. Actually makes horses invisible / visible to change the color.
+Enter the box will seem to change the color of a horse. Actually makes horses invisible / visible to change the color.
 
 ## Setup
 
