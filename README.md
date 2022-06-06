@@ -1,4 +1,4 @@
-Shows a text that animates when highlighting or clicking on a cube.
+Button demo. Creates a button which, when clicked, will seem to change the color of a horse. Actually makes horses invisible / visible to change the color.
 
 ## Setup
 
